@@ -1,0 +1,17 @@
+Message 
+From: Marge Simpson [marge.simpson@simpsons.com] 
+Sent: 11/14/2018 12:59:19 PM 
+To: TQuinlan@ReedSmith.com; rms655@gmail.com 
+CC: Homer Simpson [homer.simpson@simpsons.com]; Bart Simpson [homer.simpson@simpsons.com]; Maggie Simpson [homer.simpson@simpsons.com]; Lisa Simpson [homer.simpson@simpsons.com] 
+Subject: New Episode
+Attachments: Episode script.txt 
+
+Dear Family,
+
+Please see the attached script for the next new expisode of the Simpsons.  I hope you all read it carefully and can do you part to make it the best episode ever.
+
+Thanks,
+Marge Simpson
+
+555.867.9991
+marge.simpson@simpsons.com
