@@ -1,7 +1,7 @@
 Message 
 From: Marge Simpson [marge.simpson@simpsons.com] 
 Sent: 11/14/2018 12:59:19 PM 
-To: TQuinlan@ReedSmith.com; rms655@gmail.com 
+To: Ned Flanders [nflanders@ReedSmith.com]; Chief Wigam [cwigam@simpsons.com] 
 CC: Homer Simpson [homer.simpson@simpsons.com]; Bart Simpson [homer.simpson@simpsons.com]; Maggie Simpson [homer.simpson@simpsons.com]; Lisa Simpson [homer.simpson@simpsons.com] 
 Subject: New Episode
 Attachments: Episode script.txt 
