@@ -25,9 +25,15 @@ emails_meta_1 <- str_match_all(emails$text,
 
 emails_meta_1_df <- data.frame()
 
-for (l in emails_meta_1) {
-  emails_meta_1_df <- sapply(l[,1], rbind)
-}
+#for (l in emails_meta_1) {
+#  emails_meta_1_df <- sapply(l[,1], rbind)
+#}
+
+x <- as.data.frame(emails_meta_1[1])
+y <- as.data.frame(emails_meta_1[2])
+z <- rbind(x, y)
+
+zz <- map(emails_meta_1, as.data.frame)
 
 #emails_meta_1 <- as.data.frame(emails_meta_1)
 #emails_meta_1$control_number <- str_replace(emails$doc_id, ".txt", "")
